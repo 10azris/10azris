@@ -6,6 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+---
 ###
 
 <div align="left">
@@ -18,6 +19,7 @@
 </div>
 
 ###
+---
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBiZnBiMTloZGhxaDM5cXVpamU4aGYxMngwMDk5MnM1ZGgzaHpubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" alt="Cool GIF" />
@@ -25,3 +27,6 @@
 
 
 ###
+
+<p align="center"><i>“Crafting code with purpose, one pixel at a time.”</i></p>
+
