@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Azris De Zaini</h1>
+<h1 align="center">Yo 👋, I'm Azris</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **A Deepfake Detection Website**
