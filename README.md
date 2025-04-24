@@ -1,4 +1,4 @@
-<h2 align="left">Sup 👋! My name is Azris and I'm a Network Security Student</h2>
+<h2 align="left">Sup 👋! I'm Azris and I'm a Network Security Student</h2>
 
 ###
 
