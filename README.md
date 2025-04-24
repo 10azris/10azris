@@ -19,8 +19,9 @@
 
 ###
 
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNxZWVtZDF0czkxamV5aTA0enF6MXAzOTQ1eTd6OHN5MnM1ZjE5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="Cool GIF" />
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBiZnBiMTloZGhxaDM5cXVpamU4aGYxMngwMDk5MnM1ZGgzaHpubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" alt="Cool GIF" />
 </p>
+
 
 ###
